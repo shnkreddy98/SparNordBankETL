@@ -76,7 +76,7 @@ hadoop fs -ls /user/ec2-user/ETL_Project/data
 
 ### 2. Data Transformation
 
-PySpark is used to:
+PySpark-ETL.ipynb is used here and the points are summarized below:
 
 - Define the input schema using StructType to ensure correct data types.
 - Read and verify the data from HDFS.

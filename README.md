@@ -4,11 +4,11 @@
 
 Welcome to the Spar Nord Bank ATM Transactions Analysis Project! This project demonstrates the development of a batch ETL pipeline using widely adopted tools and technologies such as Apache Sqoop, Apache PySpark, Amazon S3, and Amazon Redshift. The objective of this project is to extract, transform, and load (ETL) transactional data from a MySQL RDS database into Amazon Redshift, followed by performing analytical queries to derive valuable insights.
 
-### Use Case
+## Use Case
 
 Spar Nord Bank needs to optimize its ATM refilling strategy by analyzing ATM usage patterns, particularly withdrawals, and their influencing factors such as weather, time, and location. Additionally, the bank seeks to gain insights into ATM failures and transaction behaviors to enhance overall ATM management and customer service.
 
-### Project Workflow
+## Project Workflow
 
 The project involves the following steps:
 
